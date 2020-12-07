@@ -1,0 +1,5 @@
+    char op_mnemonic[26][10]={"LDAC","STAC","SUBJ","MULT","STRL","DIVD","ADDA","STRCH","DT",
+    "JMPEQ","LOADCH","DW","SUBR","FIXR","FIX","JMPLT","COMP","CLR","LOADB","J","DR","COMPR","STREX","LOADT","LOADL","LOADX"};
+
+    char op_opcode[26][10]={"10","1C","58","30","24","34","28","44","F0","40","60","EC",
+    "4C","C8","3C","39","38","C4","78","3C","E8","D0","20","84","08","04"};

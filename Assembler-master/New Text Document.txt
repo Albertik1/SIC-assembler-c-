@@ -1,0 +1,5 @@
+    char op_mnemonic[26][10]={"ADD","DIV","JGT","LDA","LDX","RD","STCH","STX","TIX",
+    "AND","J","JLT","LDCH","MUL","RSUB","STL","SUB","WD","COMP","JEQ","JSUB","LDL","OR","STA","STSW","TD",};
+
+    char op_opcode[26][10]={"18","24","34","00","04","D8","54","10","2C","40","3C","38",
+    "50","20","4C","14","1C","DC","28","30","48","08","44","0C","E8","E0",};
